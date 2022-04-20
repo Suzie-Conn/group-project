@@ -49,3 +49,8 @@ main h2 {
     background-color: green;
     color: white;
 }
+.Suzie-style {
+    color: rgb(24, 49, 161);
+    background-color: black;
+    padding: 3px;
+}
